@@ -2,11 +2,11 @@
 <h3 align="center">I am a self-taught programming beginner</h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
-- 🔭 I’m currently working on [Consolidation-of-knowledge-of-HTML-and-CSS](https://github.com/fcsk/Consolidation-of-knowledge-of-HTML-and-CSS)
+- 🔭 I’m currently working on [GRID-GALLERY](https://github.com/fcsk/GRID-GALLERY)
 
 - 🌱 I’m currently learning **react, scss**
 
-- 📫 How to reach me **konradjgaj@gmail.com**
+- 📫 How to reach me **konradjgaj@gmail.com** h
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
