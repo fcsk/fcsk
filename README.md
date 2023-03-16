@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konrad</h1>
-<h3 align="center">I am a self-taught programming beginner</h3>
+<h3 align="center">I am a self-taught programming </h3>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 - 🔭 I’m currently working on [GRID-GALLERY](https://github.com/fcsk/GRID-GALLERY)
